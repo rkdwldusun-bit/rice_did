@@ -1,0 +1,23 @@
+{
+  "quartile_edges": [
+    61.44444444444444,
+    2310.5,
+    4851.055555555556,
+    8479.833333333334,
+    23311.0
+  ],
+  "pair2008base": {
+    "beta": -0.01713331854183351,
+    "se": 0.012581035409497203,
+    "p_normal": 0.1732493564116706,
+    "low": -0.04179214794444803,
+    "high": 0.007525510860781008
+  },
+  "event_average": 0.008214599287289235,
+  "event_average_se": 0.01564413506818507,
+  "event_average_normal_low": -0.0224479054463535,
+  "event_average_normal_high": 0.03887710402093197,
+  "simultaneous_multiplier_critical": 2.343034882653963,
+  "R_did_executed": false,
+  "R_HonestDiD_executed": false
+}
