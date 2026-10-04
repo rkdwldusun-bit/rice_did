@@ -1,0 +1,47 @@
+{
+  "source_sha256": "b2a66f8c162d0a92e3110ae933ab0300ef92a5233605f6f67d173cb8d3031384",
+  "scale_screen_ha": [
+    5587.222222222223,
+    23311.0
+  ],
+  "short_scale_screen_ha": [
+    5382.0,
+    23232.0
+  ],
+  "main": {
+    "model": "Main: pre-area screen, 2000-2011",
+    "n": 708,
+    "municipalities": 59,
+    "treated": 17,
+    "controls": 42,
+    "cluster": "id",
+    "clusters": 59,
+    "beta": 0.030596536322393914,
+    "se": 0.020799768874834593,
+    "p": 0.14669503179667492,
+    "ci_low": -0.011038724700542363,
+    "ci_high": 0.0722317973453302,
+    "percent": 3.1069420894558624,
+    "percent_low": -1.0978021546156198,
+    "percent_high": 7.490447519256417,
+    "mde_log": 0.05914078816140608
+  },
+  "pretrend_joint_F": 1.5163559171290781,
+  "pretrend_joint_df": [
+    8,
+    58
+  ],
+  "pretrend_joint_p": 0.17152923246662188,
+  "pre_linear_slope": 0.00597447752390905,
+  "pre_linear_se": 0.0032610228884291663,
+  "pre_linear_p": 0.07207435855960265,
+  "placebo_2006_beta": 0.027895986582116155,
+  "placebo_2006_se": 0.015240006470473863,
+  "placebo_2006_p": 0.07232290788197349,
+  "province_wild_p": 0.1796875,
+  "province_wild_draws": 256,
+  "collapsed_did": 0.030596536322393827,
+  "explicit_fe_beta": 0.03059653632239287,
+  "loo_min": 0.024565705843284207,
+  "loo_max": 0.04254270669979227
+}
